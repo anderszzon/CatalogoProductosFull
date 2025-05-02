@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\mauri\\source\\repos\\CatalogoProductosFull\\Backend\\CatalogoProductosAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F32E710-18D6-49EF-8222-788A8C800616}|CatalogoProductosAPI.csproj|c:\\users\\mauri\\source\\repos\\catalogoproductosfull\\backend\\catalogoproductosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9F32E710-18D6-49EF-8222-788A8C800616}|CatalogoProductosAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9F32E710-18D6-49EF-8222-788A8C800616}|CatalogoProductosAPI.csproj|c:\\users\\mauri\\source\\repos\\catalogoproductosfull\\backend\\catalogoproductosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F32E710-18D6-49EF-8222-788A8C800616}|CatalogoProductosAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F32E710-18D6-49EF-8222-788A8C800616}|CatalogoProductosAPI.csproj|c:\\users\\mauri\\source\\repos\\catalogoproductosfull\\backend\\catalogoproductosapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9F32E710-18D6-49EF-8222-788A8C800616}|CatalogoProductosAPI.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9F32E710-18D6-49EF-8222-788A8C800616}|CatalogoProductosAPI.csproj|c:\\users\\mauri\\source\\repos\\catalogoproductosfull\\backend\\catalogoproductosapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9F32E710-18D6-49EF-8222-788A8C800616}|CatalogoProductosAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F32E710-18D6-49EF-8222-788A8C800616}|CatalogoProductosAPI.csproj|c:\\users\\mauri\\source\\repos\\catalogoproductosfull\\backend\\catalogoproductosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F32E710-18D6-49EF-8222-788A8C800616}|CatalogoProductosAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\mauri\\source\\repos\\CatalogoProductosFull\\Backend\\CatalogoProductosAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\mauri\\source\\repos\\CatalogoProductosFull\\Backend\\CatalogoProductosAPI\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-02T03:36:08.011Z",
               "EditorCaption": ""
@@ -44,40 +40,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mauri\\source\\repos\\CatalogoProductosFull\\Backend\\CatalogoProductosAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\mauri\\source\\repos\\CatalogoProductosFull\\Backend\\CatalogoProductosAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T03:34:45.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\mauri\\source\\repos\\CatalogoProductosFull\\Backend\\CatalogoProductosAPI\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\mauri\\source\\repos\\CatalogoProductosFull\\Backend\\CatalogoProductosAPI\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-02T03:27:14.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\mauri\\source\\repos\\CatalogoProductosFull\\Backend\\CatalogoProductosAPI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
               "ToolTip": "C:\\Users\\mauri\\source\\repos\\CatalogoProductosFull\\Backend\\CatalogoProductosAPI\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-02T03:16:01.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mauri\\source\\repos\\CatalogoProductosFull\\Backend\\CatalogoProductosAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mauri\\source\\repos\\CatalogoProductosFull\\Backend\\CatalogoProductosAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T03:34:45.756Z",
               "EditorCaption": ""
             }
           ]
