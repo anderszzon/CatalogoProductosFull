@@ -1,0 +1,31 @@
+<h2>{{titulo}}</h2>
+
+<form (submit)="guardarCambios()" [formGroup]="form">
+  <div class="form-grid">
+    <mat-form-field appearance="outline">
+      <mat-label>Nombre</mat-label>
+      <input [formControl]="form.controls.nombre" matInput />
+      <mat-error>{{obtenerErroresCampoNombre()}}</mat-error>
+    </mat-form-field>
+
+    <mat-form-field appearance="outline">
+      <mat-label>Descripcion</mat-label>
+      <input [formControl]="form.controls.descripcion" matInput />
+    </mat-form-field>
+
+    <mat-form-field appearance="outline">
+      <mat-label>Precio</mat-label>
+      <input [formControl]="form.controls.precio" matInput />
+    </mat-form-field>
+
+    <mat-checkbox [formControl]="form.controls.stock">
+      ¿En stock?
+    </mat-checkbox>
+
+  </div>
+
+  <div class="form-actions">
+    <button type="submit" mat-flat-button color="primary">Guardar Cambios</button>
+    <a mat-stroked-button routerLink="/productos">Cancelar</a>
+  </div>
+</form>

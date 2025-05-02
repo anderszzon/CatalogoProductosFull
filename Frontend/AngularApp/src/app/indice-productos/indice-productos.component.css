@@ -1,0 +1,21 @@
+a {
+  margin-right: 1rem;
+}
+
+.indice-elementos {
+  margin-top: 1rem;
+}
+
+.acciones-botones {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px; /* Espacio horizontal y vertical entre botones */
+}
+
+.columna-nombre {
+  text-align: center; /* Centrado del texto */
+  width: 400px;        /* Ajusta este valor según lo ancho que quieras */
+  max-width: 250px;
+  min-width: 150px;
+  white-space: normal; /* Permite que el texto se ajuste en varias líneas si es necesario */
+}

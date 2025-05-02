@@ -1,0 +1,19 @@
+a {
+  margin-left: 1rem;
+}
+.form-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+mat-form-field {
+  flex: 1 1 calc(50% - 16px); /* Dos columnas con espacio entre ellas */
+  min-width: 200px;
+}
+
+.form-actions {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+}
