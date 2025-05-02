@@ -7,7 +7,7 @@ WORKDIR /app
 EXPOSE 8080
 EXPOSE 8081
 
-ENV DB_CONNECTION_STRING="Server=192.168.20.37\\SQLEXPRESS;Database=db_CatalogoProductos;Integrated Security=True;TrustServerCertificate=True;"
+ENV DB_CONNECTION_STRING="data source=db_CatalogoProductos.mssql.somee.com;initial catalog=db_CatalogoProductos;user id=Anderzzon_SQLLogin_1;pwd=t4yi8is6fr;TrustServerCertificate=True"
 
 
 # This stage is used to build the service project
