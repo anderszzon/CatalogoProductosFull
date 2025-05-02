@@ -54,17 +54,37 @@ La API expone los siguientes endpoints bajo el controlador `ProductoControllers`
 | PUT    | `/api/productos/{id}`     | Actualiza un producto existente        |
 | DELETE | `/api/productos/{id}`     | Elimina un producto por su ID          |
 
----
-
-## 🧪 Ejemplo del objeto JSON
-
-```json
-{
-  "nombre": "Computador",
-  "descripcion": "HP 1210",
-  "precio": 1500000,
-  "stock": true
-}
+Información Importante --> La base de datos esta en un hosting llamado somee como se observa a continuación
+![image](https://github.com/user-attachments/assets/335ae9e9-da8d-4803-abec-b7fd079cd3dc)
 
 
+# Proyecto Angular
+
+Este proyecto es una aplicación desarrollada con Angular.
+
+## Requisitos previos
+
+Se requiere instalar lo siguiente:
+
+- [Node.js](https://nodejs.org/) (versión recomendada: LTS)
+- npm (se instala junto con Node.js)
+
+## Instalación de Angular CLI
+
+Teniendo en cuenta la instalación de Angular inicializar la consola CMD e instalar AngularCLI, puedes hacerlo con el siguiente comando y verificar la version instalada.
+
+npm install -g @angular/cli
+ng version
+
+A continuación dirigete a la siguiente ruta de la carpeta del repositorio e inicializa la consola CMD
+
+![image](https://github.com/user-attachments/assets/1030ac57-54e9-4baf-836c-664e064382a3)
+
+paso seguido, solamente queda ejecutar la aplicacion con el siguiente comando. 
+
+ng serve -o
+
+Finalmente, el sistema abre la url donde se puede obserar el servidor frontend/cliente. Como se observa en la siguiente imagen:
+
+![image](https://github.com/user-attachments/assets/0b4055a7-b976-4de8-ae4a-4655b33b2a70)
 
