@@ -38,5 +38,33 @@ http://localhost:8080/swagger/index.html
 En caso que no este disponible el acceso, se puede ingresar medianta Docker Desktop, haciendo click como se observa en la siguiente imagen:
 ![image](https://github.com/user-attachments/assets/20370966-61af-4b92-be57-e60f49c76f61)
 
+# 📦 API REST - Catálogo de Productos usando SWAGGER
+
+Esta API REST permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre un catálogo de productos. Está construida en .NET 9 y se puede ejecutar usando Docker.
+
+## 🚀 Endpoints disponibles
+
+La API expone los siguientes endpoints bajo el controlador `ProductoControllers`:
+
+| Método | Endpoint                  | Descripción                            |
+|--------|---------------------------|----------------------------------------|
+| GET    | `/api/productos`          | Obtiene la lista completa de productos |
+| POST   | `/api/productos`          | Crea un nuevo producto                 |
+| GET    | `/api/productos/{id}`     | Obtiene un producto por su ID          |
+| PUT    | `/api/productos/{id}`     | Actualiza un producto existente        |
+| DELETE | `/api/productos/{id}`     | Elimina un producto por su ID          |
+
+---
+
+## 🧪 Ejemplo del objeto JSON
+
+```json
+{
+  "nombre": "Computador",
+  "descripcion": "HP 1210",
+  "precio": 1500000,
+  "stock": true
+}
+
 
 
