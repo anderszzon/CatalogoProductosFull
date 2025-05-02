@@ -5257,11 +5257,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mauri\\source\\repos\\Prueba DevFullStack\\Backend\\CatalogoProductosAPI\\CatalogoProductosAPI.csproj",
+      "projectUniqueName": "C:\\Users\\mauri\\source\\repos\\CatalogoProductosFull\\Backend\\CatalogoProductosAPI\\CatalogoProductosAPI.csproj",
       "projectName": "CatalogoProductosAPI",
-      "projectPath": "C:\\Users\\mauri\\source\\repos\\Prueba DevFullStack\\Backend\\CatalogoProductosAPI\\CatalogoProductosAPI.csproj",
+      "projectPath": "C:\\Users\\mauri\\source\\repos\\CatalogoProductosFull\\Backend\\CatalogoProductosAPI\\CatalogoProductosAPI.csproj",
       "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mauri\\source\\repos\\Prueba DevFullStack\\Backend\\CatalogoProductosAPI\\obj\\",
+      "outputPath": "C:\\Users\\mauri\\source\\repos\\CatalogoProductosFull\\Backend\\CatalogoProductosAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
