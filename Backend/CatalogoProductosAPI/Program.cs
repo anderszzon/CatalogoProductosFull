@@ -22,8 +22,8 @@ builder.Services.AddCors(opciones =>
     });
 });
 
-//string connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
-string connectionString = Environment.GetEnvironmentVariable("DB_CONNECTION_STRING");
+string connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+//string connectionString = Environment.GetEnvironmentVariable("DB_CONNECTION_STRING");
 //string connectionString = Environment.GetEnvironmentVariable("DB_CONNECTION_STRING") ?? builder.Configuration.GetConnectionString("DefaultConnection");
 
 builder.Services.AddDbContext<ApplicationDbContext>(opciones => opciones.UseSqlServer(connectionString));
